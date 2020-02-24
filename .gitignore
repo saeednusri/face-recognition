@@ -1,0 +1,9 @@
+.DS_Store
+#params.json
+#app_key.json
+__pycache__/
+dataset/
+Cascades/
+test.py
+faceSmileDetection.py
+smileEyeDetection.py
